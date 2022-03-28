@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Czech Air</string>
+    <string name="plane_icon">Plane Icon</string>
+    <string name="flight_count">\'%1$d\' flights</string>
+    <string name="flight_info">\'%1$s\' from \'%2$s\'</string>
+</resources>
